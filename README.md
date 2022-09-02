@@ -4,13 +4,13 @@ The project uses Mongo, Express, Node and React JS to create a Tinder Clone.
 
 ## Running the app
 
-Donwload the zip or clone the repository. Cd tinder_backend and run
+Donwload the zip or clone the repository. Cd whatsapp_backend and run
 
 ```bash
 npm start
 ```
 
-Then cd .. and cd tinder_clone. Install the dependencies with:
+Then cd .. and cd whatsapp_clone. Install the dependencies with:
 
 ```bash
 npm install
